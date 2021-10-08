@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amir Afunian.
 - 👀 I’m passionate about programming, preferably with C++!
 - 🌱 I’m currently a part-time computer science student at Irvine Valley College.
-- 💞️ I’m looking forward to opportunities working in game or software development!
+- 💞️ I’m looking forward to opportunities working in game development and software development!
 - 📫 You can reach me at amirafunian@yahoo.com!
 
 <!---
