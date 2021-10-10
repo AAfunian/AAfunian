@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Amir Afunian.
-- 👀 I’m a computer science student at Irvine Valley College.
+- 👀 I’m a computer science student at Irvine Valley College in Irvine, California.
 - 🌱 I’m passionate about programming, with a current focus on C++!
 - 💞️ I’m open and looking forward to opportunities working in game development and software development!
 - 📫 You can reach me at amirafunian@yahoo.com!
