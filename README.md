@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amir Afunian.
+- 👋 Hi, my name is Amir Afunian.
 - 👀 I’m passionate about programming, preferably with C++!
 - 🌱 I’m a computer science student at Irvine Valley College.
 - 💞️ I’m looking forward to opportunities working in game development and software development!
